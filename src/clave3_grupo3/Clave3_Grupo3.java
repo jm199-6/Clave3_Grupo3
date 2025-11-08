@@ -11,7 +11,7 @@ package clave3_grupo3;
 public class Clave3_Grupo3 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsadasdasd
      */
     public static void main(String[] args) {
         // TODO code application logic here
